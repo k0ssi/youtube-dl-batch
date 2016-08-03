@@ -10,3 +10,17 @@ $ nano links.txt
 and add every channel you want
 $ python youtube-dl-batch.py 
 ```
+
+
+# Help
+```
+usage: youtube-dl-batch.py [-h] [-da DA] [-v]
+
+youtube-dl-batch 
+Batch downloading youtube channels by using youtube-dl by rg3
+
+optional arguments:
+  -h, --help     show this help message and exit
+  -da DA         Download only the videos uploaded after specified date (example: 19700101 for January 1, 1970)
+  -v, --verbose  Will display verbose log
+```
