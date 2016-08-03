@@ -10,6 +10,7 @@ $ nano links.txt
 and add every channel you want
 $ python youtube-dl-batch.py 
 ```
+youtube-dl-batch automatically installing vsftp which allows you to download files by ftp. Default login is: dl/dl123
 
 
 # Help
